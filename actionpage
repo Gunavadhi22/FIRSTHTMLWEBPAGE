@@ -1,0 +1,23 @@
+<html>
+<center>
+
+    <head>
+        <title>SUBMITPAGE</title>
+        <style>
+            body {
+                background-color: bisque;
+            }
+            
+            h1 {
+                color: darkgreen;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Successfully Registered ✅</h1>
+        <p>Your admission form has been submitted.</p>
+    </body>
+</center>
+
+</html>
