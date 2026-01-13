@@ -110,7 +110,7 @@
         <tr>
             <td>COURSE APPLIED FOR:</td>
             <td>BCA</td>
-            <td><input type="radio">B.com<input type="radio">BSC <input type="radio">B.A</td><input type="radio"></td><br></tr>
+            <td><input type="radio">BE<input type="radio">BSC <input type="radio">B.A</td><input type="radio"></td><br></tr>
         <tr>
             <td><input type="submit"></td>
             <td><input type="reset"></td>
